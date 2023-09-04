@@ -1,4 +1,4 @@
-#%%[markdown]
+
 import planesections as ps
 
 # Define node locations, and support conditions
