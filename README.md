@@ -1,7 +1,7 @@
 # Structural analysis of a beam
 
-Some discription!
+This program utilize PlaneSections library to perform structural analysis of a beam.
 
-## Sub header
+## Contents
 
-Some sentence
+This is my first ever python program I ever made.
